@@ -284,4 +284,14 @@ h3 {
     .kartu-Transportasi {
         width: 50%;
     }
+    
+     .footer {
+        display: block;
+    }
+
+    .footer-section {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
 }
